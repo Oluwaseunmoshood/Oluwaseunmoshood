@@ -149,7 +149,7 @@
 			new TypeIt('.passion', {
 				speed: 200,
 		        startDelay: 800,
-		        strings: ['Cloud Engineer', 'UI/UX Designer', 'Web Developer'],
+		        strings: ['UI/UX Designer', 'Web Developer', 'Cloud Engineer'],
 		        breakLines: false,
 		        loop: true
 			});
